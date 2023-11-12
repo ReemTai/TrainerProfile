@@ -1,8 +1,30 @@
 @import "primeicons/primeicons.css";
-
 .card{
-  background: #ffffff;
-  border: 1px solid #dfe7ef;
+  background: #071426;
+  // border: 1px solid #dfe7ef;
   padding: 1.5rem;
   border-radius: 12px;
+  color:rgba(255, 255, 255, 0.87);
+
 }
+.serv{
+  background: #ffffff;
+  border: 1px solid #96bbe1bc;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px #147ed4af;
+
+
+}
+// .normal-card{
+//   box-shadow: 0px 4px 30px rgba(173, 179, 238, 0.54);
+
+// }
+//   .team-card{
+//     box-shadow: 0px 4px 15px #4f52b2a1;
+//   }
+
+// .outlook-card{
+//   box-shadow: 0px 4px 15px #147ed4af;
+
+// }
